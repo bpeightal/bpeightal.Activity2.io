@@ -1,0 +1,21 @@
+#top {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b19cd9;
+    width: 430px;
+}
+
+#toptext {
+    float: left;
+    border-left: 5px white solid;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
