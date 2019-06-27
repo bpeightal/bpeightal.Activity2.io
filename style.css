@@ -3,8 +3,8 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #b19cd9;
-    width: 430px;
+    background-color: #606366;
+    width: 200px;
 }
 
 #toptext {
@@ -18,4 +18,14 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+}
+
+h2 {
+    color: white;
+    font-size: 15pt
 }
