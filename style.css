@@ -1,3 +1,5 @@
+
+/*navigation bar*/
 #top {
     list-style-type: none;
     margin: 0;
@@ -7,11 +9,13 @@
     width: 200px;
 }
 
+/*navigation bar text*/
 #toptext {
     float: left;
     border-left: 5px white solid;
 }
 
+/* navigation bar*/
 li a {
     display: block;
     text-align: center;
@@ -20,16 +24,19 @@ li a {
     color: white;
 }
 
+/* underline*/
 #un {
     text-align: left;
     text-decoration: underline;
 }
 
+/*heading one */
 h1 {
     text-decoration: underline;
     text-align: center;
 }
 
+/* Metro image css*/
 .metro {
     display: block;
     margin-left: auto;
@@ -38,10 +45,13 @@ h1 {
     height: 200px;
   }
 
+
+/* font size for heading*/
 h2 {
     font-size: 15pt
 }
 
+/*puts the image and text side by side*/
 #side {
     max-width: 940px;
     margin: 0 auto;
